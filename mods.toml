@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="jrmcore"
+version="1.0.0"
+displayName="JRMCore Merged"
+credits="Rewritten from JRMCore, DragonBlockC, JBRA"
+authors="Yellowmansam"
+description='''
+Merged version of JRMCore, DragonBlockC, and JBRA updated for Minecraft 1.20.1.
+'''
